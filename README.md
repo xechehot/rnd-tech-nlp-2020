@@ -25,7 +25,7 @@
  ### Данные для обучения и веса моделей
  
  Нужно добавить на свой Google-drive папку `fast-ai-text` с весами и моделями:
- https://drive.google.com/drive/folders/1rKZLehhvsveyYQoTFreZ3DtQPyaRkXUL?usp=sharing
+ https://drive.google.com/drive/folders/14E2Kc_V50tlAw-rxLXbKcVCrtvYANBBN?usp=sharing
 
 
  ### Полезные ссылки
